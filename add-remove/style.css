@@ -1,0 +1,28 @@
+* {
+  background: #333;
+}
+body {
+  font-family: courier;
+}
+h1 {
+  color: Aquamarine;
+  font-weight: 600;
+}
+p {
+  color: #999;
+  font-weight: lighter;
+}
+
+.wrapper {
+  width: 800px;
+}
+button {
+  border: none;
+  color: #999;
+  background-color: Aquamarine;
+}
+.text-style {
+  color: LightSalmon;
+  font-size: 18px;
+  font-family: century gothic;
+}
